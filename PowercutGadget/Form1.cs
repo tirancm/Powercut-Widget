@@ -295,6 +295,7 @@ namespace PowercutGadget
 
                     int minutes = (Int32)SyncedData.TimeSlots[nearestTimeslotIndex].StartTime.Subtract(DateTime.Now).TotalMinutes;
 
+
                     createNotification(nearestTimeslotIndex,60);
                     createNotification(nearestTimeslotIndex,30);
                     createNotification(nearestTimeslotIndex, 15);
