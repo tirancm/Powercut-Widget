@@ -5,7 +5,13 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowercutGadget", "PowercutGadget\PowercutGadget.csproj", "{72D1AF1E-B18D-4FF7-ACB7-9065907093AD}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowecuGadgettSetup", "PowecuGadgettSetup\PowecuGadgettSetup.vdproj", "{A2A181D0-2E2A-40FD-839E-521AC843A516}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowecutGadgetSetup", "PowecuGadgettSetup\PowecuGadgettSetup.vdproj", "{A2A181D0-2E2A-40FD-839E-521AC843A516}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screentshots", "Screentshots", "{EF183D98-F198-462E-8D32-616C72059705}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\screentshot_1.jpg = ..\..\..\..\Desktop\screentshot_1.jpg
+		..\..\..\..\Desktop\screentshot_2.jpg = ..\..\..\..\Desktop\screentshot_2.jpg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
