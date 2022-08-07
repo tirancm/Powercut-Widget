@@ -1,4 +1,5 @@
 # powercut_gadget
 powercut gadget is a windows desktop widget, made to view scheduled powercuts of CEB.
 
-![Screenshot](screenshot_1.jpg?raw=true)
+![Screenshot](https://github.com/tirancm/powercut_gadget/blob/master/screentshot_1.jpg)
+![Screenshot](https://github.com/tirancm/powercut_gadget/blob/master/screentshot_1.jpg)
