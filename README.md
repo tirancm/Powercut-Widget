@@ -1,6 +1,6 @@
-# hgfyfygvfyui
+PowercutWidget
 
-hgfyfygvfyui
+PowercutWidget
  is a windows desktop widget, made to view scheduled powercuts of CEB.
 
 ## Download executable file
